@@ -1,6 +1,7 @@
 ## Hi, I'am is Shazan 🌟
 
-I am an Apprentice Developer, I am improving and improving my knowledge in BackEnd 
+I am an Apprentice Developer, I am improving 
+my knowledge in BackEnd 
 
 I have good knowledge of DiscordBots
 
