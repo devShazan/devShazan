@@ -1,14 +1,41 @@
-## Hi, I'am is Shazan 🌟
+<h1 align="center">hey there 👋</h1>
 
-I am an Apprentice Developer, I am improving 
-my knowledge in BackEnd 
+###
 
-I have good knowledge of DiscordBots
+<h3 align="left">👩‍💻  About Me</h3>
 
-### I have knowledge of the following languages 💻:
+###
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Shazan" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg">
-  <img align="center" alt="Shazan" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Shazan" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+<p align="left">I'm Shazan, from Brazil 🇧🇷<br><br>- 🔭 I'm an Apprentice Developer<br>- 📚 I'm currently studying C++<br>- ⚡ In my free time play and read</p>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"
+</div>
+
+###
+
+<h3 align="left">🛠 Language</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devShazan.devShazan&"  />
+</div>
+
+###
